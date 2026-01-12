@@ -1,0 +1,1 @@
+This is a method for electromyographic (sEMG) signal processing, which is mainly divided into three steps: sliding average power, lg mapping, and sigmoid normalization. Included herein are the MATLAB codes for each step of this method, as well as the ResNet50 model used for hand gesture classification.
